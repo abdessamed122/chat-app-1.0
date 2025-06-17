@@ -1,7 +1,6 @@
 # 💬 Chat App 1.0
 
 A simple real-time chat application built using **Node.js**, **Express**, and **Socket.io**. This project demonstrates the fundamentals of WebSockets and live communication between users in a web environment.
-https://chat-app-1-0-6say.onrender.com/login
 ---
 
 ## ⚙️ Features
